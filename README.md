@@ -1,1 +1,3 @@
 # Codewar-Algorithms
+
+Algorithm practice
